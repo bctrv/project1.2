@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4ink6cmlmnfh6ee6?svg=true)](https://ci.appveyor.com/project/bctrv/project1-2)
+
+
 # aqa-code
 Код с лекций Автоматизация тестирования
 
